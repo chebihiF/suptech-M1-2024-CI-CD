@@ -6,3 +6,4 @@ CREATE TABLE greetings (
   message VARCHAR(255) NOT NULL
 );
 INSERT INTO greetings (message) VALUES ('Hello from Docker Swarm!');
+INSERT INTO greetings (message) VALUES ('Hello from Docker Swarm 2!');
